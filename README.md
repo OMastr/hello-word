@@ -1,2 +1,4 @@
 # hello-word
-short description
+ciao.
+
+sono un programmatore
