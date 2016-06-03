@@ -1,4 +1,4 @@
 # hello-word
 ciao.
 
-sono un programmatore
+versione 1 del pgm
