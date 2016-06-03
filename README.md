@@ -1,4 +1,4 @@
 # hello-word
 ciao.
 
-versione 1 del pgm
+versione n°2 del pgm
