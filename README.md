@@ -1,2 +1,4 @@
 # hello-word
-short description
+ciao.
+
+versione n°2 del pgm
